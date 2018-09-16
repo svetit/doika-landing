@@ -159,3 +159,12 @@ a.links__show {
 #links .row {
   margin-bottom: 30px;
 }
+
+.links a.button {
+  line-height: 25px;}
+  @media (min-width: 403px) {
+	.links a.button {
+          line-height: 45px;
+	}
+  }
+
