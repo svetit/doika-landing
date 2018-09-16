@@ -89,4 +89,9 @@
   color: #ffffff;
 }
 
+.our-work__title-image {
+ padding-left: 0px;}
+  @media (min-width: 560px) {
+    .our-work__title-image {
 
+      padding-left: 25px; } }
