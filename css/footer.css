@@ -1,0 +1,43 @@
+.footer {
+  background-color: #cccccc; }
+  .footer .container {
+    max-width: 1000px;
+    background-image: url("../img/footer.png");
+    background-repeat: no-repeat;
+    background-size: auto 60px;
+    background-position: bottom 15px center; }
+    @media (min-width: 1024px) {
+      .footer .container {
+        background-size: 100% auto; } }
+
+.contacts {
+  padding-top: 20px; }
+  .contacts dt, .contacts dd {
+    display: inline;
+    font-size: 1.1rem;
+    color: #333333;
+    font-family: 'PT Sans', sans-serif;
+    padding: 0 5px;
+    white-space: nowrap; }
+  .contacts dt {
+    font-weight: 400; }
+
+.socials li {
+  display: inline-block;
+  font-size: 1.3rem;
+  margin: 0 5px; }
+
+.copyright__icons a {
+  text-decoration: none;
+  font-size: 0.5rem; }
+  .copyright__icons a i {
+    font-size: 1.5rem; }
+
+.copyright {
+  min-height: 100px; }
+  @media (min-width: 1024px) {
+    .copyright {
+      min-height: 135px; } }
+  .copyright a {
+    vertical-align: top;
+    padding: 0 5px; }

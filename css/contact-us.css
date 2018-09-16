@@ -1,0 +1,56 @@
+.contact-us {
+  background-color: #ffffff;
+  padding: 8vh 0 8vh 0; }
+  @media (min-width: 1024px) {
+    .contact-us {
+      padding: 50px 0 60px 0; } }
+  .contact-us .container {
+    width: 80%;
+    padding-right: 0;
+    padding-left: 0; }
+    @media (min-width: 1024px) {
+      .contact-us .container {
+        width: 800px; } }
+
+.contact-us__title {
+  font-size: 1.58rem;
+  color: #333333;
+  text-shadow: none;
+  margin-bottom: 20px; }
+  @media (min-width: 1024px) {
+    .contact-us__title {
+      font-size: 1.9rem; } }
+
+.contact-us__text {
+  font-size: 0.92rem;
+  color: #333333;
+  text-align: left; }
+  @media (min-width: 1024px) {
+    .contact-us__text {
+      font-size: 1.05rem; } }
+
+.contact-us__text > .contact-us__text_header {
+  font-weight: bold;
+  word-break: normal;
+  display: block; }
+
+.contact-us__text_breaked {
+  word-break: break-all; }
+  .contact-us__text_breaked a {
+    display: block;
+    text-decoration: underline; }
+  @media (min-width: 1024px) {
+    .contact-us__text_breaked {
+      margin-bottom: 0; } }
+
+.contact-us__map {
+  margin-bottom: 0;
+  height: 300px; }
+  @media (min-width: 1024px) {
+    .contact-us__map {
+      height: calc(100% - 5px);
+      margin-top: 5px; } }
+  .contact-us__map .frame__map {
+    border: none;
+    height: 100%;
+    width: 100%; }

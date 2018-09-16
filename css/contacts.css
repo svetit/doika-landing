@@ -1,0 +1,17 @@
+.contact-us {
+  background-color: #f2f2f2;
+  padding: 8vh 0 0 0; }
+  @media (min-width: 1024px) {
+    .contact-us {
+      padding: 55px 0 0 0; } }
+  .contact-us .container {
+    width: 80%;
+    padding-right: 0;
+    padding-left: 0; }
+    @media (min-width: 1024px) {
+      .contact-us .container {
+        width: 800px; } }
+  .contact-us .button {
+    box-shadow: 0px 2px 2px #999;
+    margin-bottom: 4px;
+    margin-top: 75px; }

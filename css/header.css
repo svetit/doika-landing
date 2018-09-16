@@ -1,0 +1,168 @@
+.header {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  min-height: 400px;
+  background-color: #f2f2f2;
+  background-image: url("../img/header.png");
+  background-size: 100% auto;
+  background-position: center 100%;
+  background-repeat: no-repeat;
+  text-align: center; }
+  @media (min-width: 1024px) {
+    .header {
+      min-height: 700px; } }
+
+.navbar {
+  background-color: #808080;
+  z-index: 999;
+  padding: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  transition: 0.5s;
+  min-height: 50px; }
+
+.custom-toggler .navbar-toggler-icon {
+  color: #f2f2f2;
+  font-size: 2rem;
+  height: 50px;
+  line-height: 3rem; }
+
+.custom-toggler.navbar-toggler {
+  border: none;
+  margin-left: 10px;
+  padding: 0; }
+  .custom-toggler.navbar-toggler:focus {
+    outline: none; }
+
+.navbar-collapse {
+  width: 100%;
+  padding: 0 30px; }
+
+.language-switcher {
+  position: absolute;
+  top: 0;
+  right: 30px;
+  height: 50px;
+  flex-direction: row; }
+  .language-switcher .language-switcher__item {
+    display: inline-block;
+    align-self: center; }
+    .language-switcher .language-switcher__item_active {
+      pointer-events: none;
+      cursor: default;
+      color: #DDD9D5 !important;
+      text-decoration: none !important; }
+    .language-switcher .language-switcher__item a.nav-link {
+      text-decoration: underline;
+      padding-right: 0.5rem;
+      color: #f9f9f9;
+      font-size: 1.1rem;
+      font-weight: 400;
+      text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+      font-family: "PT Sans", sans-serif;
+      transition: 0.2s; }
+      @media (min-width: 1024px) {
+        .language-switcher .language-switcher__item a.nav-link {
+          font-size: 1.1rem; } }
+      .language-switcher .language-switcher__item a.nav-link:hover {
+        text-decoration: none;
+        color: rgba(249, 249, 249, 0.8); }
+      .language-switcher .language-switcher__item a.nav-link:active {
+        color: rgba(249, 249, 249, 0.8); }
+
+#navbarNav a.nav-link {
+  padding: 0 0.7rem;
+  text-decoration: none;
+  color: #333333;
+  font-size: 1.33rem;
+  font-family: "PT Sans";
+  font-weight: 700;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+  transition: 0.2s;
+  padding-bottom: 10px;
+  line-height: 2; }
+  @media (min-width: 1024px) {
+    #navbarNav a.nav-link {
+      font-size: 1.5rem;
+      padding-bottom: 0; } }
+  #navbarNav a.nav-link:hover {
+    text-decoration: underline;
+    color: #ffaacc; }
+  #navbarNav a.nav-link:active {
+    color: #cccccc; }
+  #navbarNav a.nav-link:focus {
+    color: #cccccc; }
+
+.header__logo {
+  position: absolute;
+  width: 90px;
+  top: 15%;
+  left: calc(50% - 45px); }
+  @media (min-width: 1024px) {
+    .header__logo {
+      width: 130px;
+      top: 15%;
+      left: calc(50% - 65px); } }
+
+.header__title {
+  position: absolute;
+  width: 100%;
+  top: 35%;
+  text-align: center; }
+  @media (min-width: 1024px) {
+    .header__title {
+      top: 35%; } }
+
+.header__subtitle {
+  position: absolute;
+  width: 200px;
+  font-weight: 200;
+  top: 45%;
+  left: calc(50% - 100px); }
+  @media (min-width: 1024px) {
+    .header__subtitle {
+      width: 350px;
+      top: 45%;
+      left: calc(50% - 175px); } }
+
+.header__slogan {
+  margin-top: 20px;
+  width: 160px;
+  position: absolute;
+  color: #ff80b2; 
+  font-size: 1.33rem;
+  line-height: 1rem;
+  top: 60%;
+  left: calc(50% - 80px);
+  font-weight: 400;
+  font-family: 'Ubuntu', sans-serif;
+  text-shadow: 1px 1px 2px rgba(0,0,0,.5);  }
+  @media (min-width: 1024px) {
+    .header__slogan {
+      top: 65%;
+      left: calc(50% - 80px);
+      font-size: 2rem;
+      line-height: 1.7rem;
+      text-align: center; } }
+
+.header__hashtag {
+  position: absolute;
+  color: #ff80b2; 
+  font-size: 0.92rem;
+  text-decoration: none;
+  font-weight: 400;
+  font-family: 'Ubuntu Mono', sans-serif;
+  top: 70%;
+  left: 0;
+  right: 0;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4); }
+  .header__hashtag:hover {
+    color: #ffaacc; 
+    text-decoration: none; }
+  @media (min-width: 1024px) {
+    .header__hashtag {
+      top: 88%;
+      font-size: 1.5rem; } }

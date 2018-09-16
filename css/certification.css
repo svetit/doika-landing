@@ -1,0 +1,46 @@
+.certification {
+  background-color: #333333;
+  padding: 8vh 0; }
+  @media (min-width: 1024px) {
+    .certification {
+      padding: 55px 0 60px 0; } }
+  .certification .container {
+    width: 80%;
+    padding-right: 0;
+    padding-left: 0; }
+    @media (min-width: 1024px) {
+      .certification .container {
+        width: 800px; } }
+  .certification .nav-link {
+    padding: 0; }
+
+.certification__title {
+  font-size: 1.58rem;
+  margin-bottom: 35px;
+  color: #ff80b2;  }
+  @media (min-width: 1024px) {
+    .certification__title {
+      font-size: 1.9rem; } }
+
+.certification__text {
+  font-size: 0.92rem;
+  color: #ff80b2; 
+  text-align: left; }
+  @media (min-width: 1024px) {
+    .certification__text {
+      font-size: 1.05rem;
+      padding-left: 25px; } }
+
+.certification__image {
+  padding: 5vh 0;
+  width: 100%;
+  height: auto;
+  align-self: center; }
+  @media (min-width: 1024px) {
+    .certification__image {
+      padding: 0; } }
+
+.certification__text a {
+  color: #ff80b2; 
+}
+

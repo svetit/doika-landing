@@ -1,0 +1,79 @@
+.about-us {
+  padding: 8vh 0;
+  width: 80%; }
+  @media (min-width: 1024px) {
+    .about-us {
+      width: 800px;
+      padding: 60px 0 40px 0; } }
+
+.about-us__header {
+  min-height: 140px;
+  background-color: rgba(255, 255, 0, 0.7);
+  padding: 0 0.875rem; }
+
+.title__image {
+  justify-content: center;
+  padding-bottom: 20px; }
+  @media (min-width: 1024px) {
+    .title__image {
+      padding: 7px 10px 7px 20px; } }
+  .title__image img {
+    width: 100%;
+    max-width: 250px;
+    height: 100%; }
+
+.title__text {
+  color: #333333;
+  padding: 1.875rem;
+  line-height: 1.2rem;
+  margin: 0;
+  text-align: left; }
+  @media (min-width: 1024px) {
+    .title__text {
+      padding: 0.875rem; } }
+
+.about-us__main.article {
+  margin-top: 50px; }
+
+.article__text-wrapper {
+  display: flex;
+  flex-direction: column; }
+  @media (min-width: 1024px) {
+    .article__text-wrapper {
+      align-items: flex-end; } }
+
+.article__title {
+  font-family: "Ubuntu";
+  font-weight: 500;
+  font-size: 1.58rem;
+  color: #333333;
+  width: 95%;
+  text-shadow: none;
+  margin-bottom: 1.2rem; }
+  @media (min-width: 1024px) {
+    .article__title {
+      font-size: 2rem; } }
+
+.article__text {
+  color: #333333;
+  width: 95%; }
+
+.article__img {
+  align-self: center;
+  margin-top: 15px;
+  display: flex;
+  justify-content: center; }
+  @media (min-width: 1024px) {
+    .article__img {
+      margin-top: 0;
+      justify-content: flex-start; } }
+  .article__img img {
+    width: 95%;
+    height: 100%;
+    max-width: 500px; }
+
+.img-right {
+  justify-content: center; }
+  @media (min-width: 1024px) {
+    .img-right {
+      justify-content: flex-end; } }
