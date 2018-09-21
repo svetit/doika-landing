@@ -23,7 +23,7 @@
   text-align: left; }
 
 .mission__text_marked {
-  padding: 5px 10px;
+  padding: 10px 15px;
   text-align: left;
   color: #ffffff;
   border: 6px solid #ff80b2; 
@@ -65,3 +65,7 @@
   @media (min-width: 1024px) {
     .carousel-control-next:hover .carousel-control-next-icon {
       background-position: -90px 0; } }
+
+#mission a.button {
+  line-height: 45px;
+}

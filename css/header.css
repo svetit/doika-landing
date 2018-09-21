@@ -124,9 +124,9 @@
   left: calc(50% - 100px); }
   @media (min-width: 1024px) {
     .header__subtitle {
-      width: 350px;
+      width: 390px;
       top: 45%;
-      left: calc(50% - 175px); } }
+      left: calc(50% - 195px); } }
 
 .header__slogan {
   width: 160px;

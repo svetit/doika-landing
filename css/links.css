@@ -54,7 +54,8 @@
 .links__image {
   height: auto;
   width: 100%;
-  margin-top: 30px;
+  margin-top: 5px;
+  margin-bottom: 30px;
   background-color: #cccccc;
   display: flex; }
   .links__image img {
@@ -156,9 +157,7 @@ a.links__show {
     a.links__show {
       font-size: 1.33rem; } }
 
-#links .row {
-  margin-bottom: 30px;
-}
+
 
 .links a.button {
   line-height: 25px;}
@@ -167,4 +166,14 @@ a.links__show {
           line-height: 45px;
 	}
   }
+
+  @media (min-width: 992px) {
+	#links .col-lg-6 {
+  	  max-width: 33.3%;
+	}
+  }
+
+#links .work-description__title {
+  font-size: 1.3rem;
+}
 
