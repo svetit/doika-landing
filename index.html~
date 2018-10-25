@@ -56,16 +56,19 @@
           </ul>
         </div>
 
-<!--
+
         <ul class="language-switcher d-flex">
           <li class="nav-item language-switcher__item">
             <a class="nav-link language-switcher__item_active" href="index.html">BY</a>
           </li>
           <li class="nav-item language-switcher__item">
+            <a class="nav-link" href="index-en.html">RU</a>
+          </li>
+          <li class="nav-item language-switcher__item">
             <a class="nav-link" href="index-en.html">EN</a>
           </li>
         </ul>
--->
+
 
       </nav>
       <img class="header__logo img-responsive" src="img/logo.png" alt="creative commons logo"/>

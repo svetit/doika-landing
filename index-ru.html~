@@ -33,25 +33,25 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item active">
-              <a class="nav-link" href="#about-us">что такое<span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="#about-us">што такое<span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#mission">зачем</a>
+              <a class="nav-link" href="#mission">навошта</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#our-work">плюшки</a>
+              <a class="nav-link" href="#our-work">плюшкі</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#certification">установка</a>
+              <a class="nav-link" href="#certification">усталёўка</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#links">команда</a>
+              <a class="nav-link" href="#links">каманда</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#history">поддержать</a>
+              <a class="nav-link" href="#history">падтрымаць</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#contact-us">контакт</a>
+              <a class="nav-link" href="#contact-us">кантакт</a>
             </li>
           </ul>
         </div>
@@ -73,8 +73,8 @@
       </nav>
       <img class="header__logo img-responsive" src="img/logo.png" alt="creative commons logo"/>
       <h1 class="header__title">Doika</h1>
-      <h2 class="header__subtitle">Питает общественные организации и поддерживает контакт с единомышленниками.</h2>
-      <p class="header__slogan">держи контакт!</p>
+      <h2 class="header__subtitle">Жывіць грамадскія арганізацыі і падтрымлівае кантакт з колам прыхільнікаў.</h2>
+      <p class="header__slogan">трымай кантакт!</p>
       <a class="header__hashtag" href="https://twitter.com/hashtag/doika">#doika</a>
     </header>
 
@@ -89,10 +89,10 @@
                 <img src="img/doika_2_2_trans.png" alt="Doika Logo" >
               </div>
               <div class="col-lg-6 article__text-wrapper">
-                <h3 class="article__title">Что такое Doika?</h3>
-                <p class="article__text">Компьютерная программа, которая устанавливается на ваш сайт и позволяет вам собирать пожертвования от посетителей через прямые платежи картой.
+                <h3 class="article__title">Што такое Doika?</h3>
+                <p class="article__text">Кампутарная праграма, якая ўсталёўваецца на ваш сайт і дазваляе вам збіраць ахвяраванні ад наведвальнікаў праз прамыя плацяжы карткай.
                 </p>
-                <p class="article__text"><strong>Doika</strong> - это новый подход в фандрайзинге белорусских некоммерческих общественных организаций.
+                <p class="article__text"><strong>Doika</strong> - гэта новы падыход у фандрэйзінгу беларускіх некамерцыйных грамадскіх арганізацый.
                 </p>
               </div>
             </div>
@@ -104,16 +104,16 @@
 
     <section id="mission" class="mission">
       <div class="container text-center">
-        <h2 class="mission__title">В чем помогает?</h2>
+        <h2 class="mission__title">У чым дапамагае?</h2>
         <div class="row">
 <!--
           <span class="mission__text_marked">Стварэнне спрыяльных умоваў для творчасці, перадачы ведаў, эканамічных адносінаў, пабудаваных на адкрытых прынцыпах, і ёсць задача праекта “Градка”.</span>
 -->
-          <p class="mission__text">1. Создавать кампании по сбору средств для события (даты) или при необходимости.</br>          
-		2. Собирать членские взносы или пожертвования от физических лиц на поддержание деятельности организации.</br>
-		3. Расширять круг подписчиков, которые могут регулярно (ежемесячно) делать пожертвования - <strong>[функционал разрабатывается]</strong>.
+          <p class="mission__text">1. Ствараць кампаніі збору сродкаў для нейкай падзеі (даты) або патрэбы</br>          
+		2. Збіраць членскія ўнёскі ці ахвяраванні ад фізічных асобаў на падтрыманне дзейнасці арганізацыі.</br>
+		3. Пашыраць кола падпісчыкаў, якія могуць рэгулярна (штомесяцова) рабіць ахвяраванні - <strong>[функцыянал распрацоўваецца]</strong>.
 	  </p>
-          <p class="mission__text">Посмотреть, как работает модуль, можно на тестовой <a href="https://it2donate-wordpress.falanster.by/" target="_blank">инсталляции</a> (версии 1.2dev).</p>
+          <p class="mission__text">Паглядзець, як працуе модуль, можна на тэставай <a href="https://it2donate-wordpress.falanster.by/" target="_blank">інсталяцыі</a> (версіі 1.2dev).</p>
 
 <!--              <div class="carousel-item active">
                 <img class="d-block img-fluid" src="img/vylaziny_1_2.JPG" alt="First slide">
@@ -154,7 +154,7 @@
              <span class="sr-only">Next</span>
             </a>
 	</div>
-        <a class="button nav-link" href="https://it2donate-wordpress.falanster.by/">попробуй Doika</a>
+        <a class="button nav-link" href="https://it2donate-wordpress.falanster.by/">тэсціруй Doika</a>
 
         </div>
 
@@ -164,13 +164,13 @@
 
     <section id="our-work" class="our-work">
       <div class="container text-center">
-          <h2 class="our-work__title">Почему необходимо использовать?</h2>
+          <h2 class="our-work__title">Чаму трэба выкарыстоўваць?</h2>
 
 <div class="">
 
 <!--	<span class="mission__text_marked">Вы самі вызначаеце правілы збору сродкаў.</span>
 -->
-        <p class="">Вы сами устанавливаете правила сбора средств.</p>
+        <p class="">Вы самі вызначаеце правілы збору сродкаў.</p>
 
         <div class="row flex-nowrap">
               <div class="col-lg-4 our-work__title-image">
@@ -187,19 +187,19 @@
         </div>
         <div class="row descriptions">
           <article class="work-description col-lg-4">
-            <h3 class="work-description__title">Не нужно платить посреднику большой процент от собранной суммы.</h3>
+            <h3 class="work-description__title">Не трэба плаціць вялікі адсотак ад сабраных сумаў пасярэдніку.</h3>
 
 
 
           </article>
           <article class="work-description col-lg-4">
-            <h3 class="work-description__title">Продвигая свою кампанию по сбору средств, вы продвигаете и сайт своей организации.</h3>
+            <h3 class="work-description__title">Прасоўваючы сваю кампанію збору сродкаў, вы прасоўваеце сайт сваёй арганізацыі.</h3>
 
 
 
           </article>
           <article class="work-description col-lg-4">
-            <h3 class="work-description__title">Через Doika вы можете собирать периодические членские взносы.</h3>
+            <h3 class="work-description__title">Вы можаце збіраць праз Doika перыядычныя сяброўскія ўнёскі.</h3>
           </article>
         </div>
 
@@ -208,7 +208,7 @@
 	</div>
 
 <div class="mission__text_marked text-center">
-	<p class="">С Doika ваши сторонники смогут делать переводы:</spp>
+	<p class="">З Doika вашыя ахвярадаўцы могуць рабіць пераводы:</spp>
 
         <div class="row flex-nowrap">
               <div class="col-lg-4 our-work__title-image">
@@ -225,25 +225,25 @@
         </div>
         <div class="row descriptions">
           <article class="work-description col-lg-4">
-            <h3 class="work-description__title">1. максимально быстро</h3>
+            <h3 class="work-description__title">1. максімальна хутка</h3>
 
 
 
           </article>
           <article class="work-description col-lg-4">
-            <h3 class="work-description__title">2. за минимум переходов</h3>
+            <h3 class="work-description__title">2. у мінімум клікаў</h3>
 
 
 
           </article>
           <article class="work-description col-lg-4">
-            <h3 class="work-description__title">3. без регистрации</h3>
+            <h3 class="work-description__title">3. без рэгістрацыі</h3>
           </article>
         </div>
 
 
-	<p class="">Для этого приверженцы ваших идей просто вводят реквизиты банковской карты и необходимую сумму.</p>
-	<p class="small_text">(В сравнении с платежами через ЕРИП и с использованием наличных средств.)  </p>
+	<p class="">Для гэтага вашы прыхільнікі проста ўводзяць рэквізіты банкаўскай карткі і патрэбную суму. </p>
+	<p class="small_text">(У параўнанні з плацяжамі праз АРІП і наяўнымі грашыма.)  </p>
 </div>
 
 
@@ -253,17 +253,17 @@
 
     <section id="certification" class="certification">
       <div class="container text-center">
-        <h2 class="certification__title">Где можно установить?</h2>
+        <h2 class="certification__title">Дзе можна ўсталяваць?</h2>
         <div class="row flex-lg-row-reverse">
           <div class="certification__text col-lg-6">
             <p>
-              <strong>Doika</strong> - опенсорсная программа, это значит, она бесплатная для использования  и  свободная для внесения изменений и распространения.
+              <strong>Doika</strong> - опенсорсная праграма, гэта значыць, яна бясплатная для выкарыстання і свабодная для ўнясёння зменаў і распаўсюду.
               </p>
               <p>
-              Модуль можно установить с любой системой управления (например, Wordpress, Drupal, Joomla), или вообще без сторонних систем.
+              Модуль можна ўсталяваць на сайт з любой сістэмай кіравання (напрыклад, Wordpress, Drupal, Joomla), або наогул асобна без іншых сістэмаў.
               </p>
               <p>
-              Для установки читайте <a href="https://github.com/diglabby/doika_1.2/blob/dev/README.md" target="_blank">полную инструкцию</a>.
+              Для ўстаноўкі чытайце <a href="https://github.com/diglabby/doika_1.2/blob/dev/README.md" target="_blank">поўную інструкцыю</a>.
             </p>
           </div>
           <div class="d-flex col-lg-6">
@@ -272,19 +272,19 @@
           </div>
         </div>
 
-        <a class="button nav-link" href="https://github.com/diglabby/doika_1.2/blob/dev/README.md">установи Doika</a>
+        <a class="button nav-link" href="https://github.com/diglabby/doika_1.2/blob/dev/README.md">усталюй Doika</a>
 
       </div>
     </section>
 
     <section id="links" class="links">
       <div class="container text-center">
-        <h2 class="our-work__title">Команда проекта</h2>
+        <h2 class="our-work__title">Каманда праекта</h2>
 
         <div class="row">
           <div class="col-lg-6">
     
-            <h3 class="work-description__title">Михаил Волчек,</br> координатор</h3>
+            <h3 class="work-description__title">Міхаіл Волчак,</br> каардынатар</h3>
 	    <div class="links__image">
               <img src="img/mihas_3.jpg" alt="дапаможнікі">
             </div>
@@ -294,7 +294,7 @@
           <div class="col-lg-6">
 
 
-            <h3 class="work-description__title">Анастасия Морозова,</br> коммуникатор, UX/UI</h3>
+            <h3 class="work-description__title">Анастасія Марозава,</br> камунікатар, UX/UI</h3>
             <div class="links__image">
               <img src="img/nasty_2.jpg" alt="налепкі">
             </div>
@@ -303,7 +303,7 @@
 
           <div class="col-lg-6">
     
-            <h3 class="work-description__title">Алексей Кирпиченков,</br> разработчик</h3>
+            <h3 class="work-description__title">Аляксей Кірпічэнкаў,</br> распрацоўшчык</h3>
 	    <div class="links__image">
               <img src="img/frozen_3.jpg" alt="дапаможнікі">
             </div>
@@ -318,7 +318,7 @@
           <div class="col-lg-6">
 
 
-            <h3 class="work-description__title">Светлана Назарова,</br> техподдержка</h3>
+            <h3 class="work-description__title">Святлана Назарава,</br> тэхпадтрымка</h3>
             <div class="links__image">
               <img src="img/svetan_2.jpg" alt="налепкі">
             </div>
@@ -327,7 +327,7 @@
 
           <div class="col-lg-6">
     
-            <h3 class="work-description__title">Семён Гавриленко,</br> багфиксер</h3>
+            <h3 class="work-description__title">Сямён Гаўрыленка,</br> багфіксер</h3>
 	    <div class="links__image">
               <img src="img/sema2_2.jpg" alt="дапаможнікі">
             </div>
@@ -337,7 +337,7 @@
           <div class="col-lg-6">
 
 
-            <h3 class="work-description__title">Светлана Ермакович,</br> пиар и SMM</h3>
+            <h3 class="work-description__title">Святлана Ермаковіч,</br> піяр і smm</h3>
             <div class="links__image">
               <img src="img/svet_3.jpg" alt="налепкі">
             </div>
@@ -345,7 +345,7 @@
           </div>
         </div>
 
-        <a class="button nav-link" href="#contact-us">стань частью команды</a>
+        <a class="button nav-link" href="#contact-us">далучайся да каманды</a>
 
 
 
@@ -365,8 +365,8 @@
                 <img src="img/f_coin_rotated.png" alt="Фаланстэр коін" >
               </div>
               <div class="col-lg-6 article__text-wrapper">
-                <h3 class="article__title">Как нас поддержать?</h3>
-                <p class="article__text">Doika - волонтерское начинание. Дополнительные финансы помогут нам устойчиво добавлять новый функционал! <a href="https://it.falanster.by/#doika" target="_blank">Пожертвуй на развитие Doika!</a>
+                <h3 class="article__title">Як можна падтрымаць?</h3>
+                <p class="article__text">Doika - валанцёрскае пачынанне. Дадатковыя фінансы дапамогуць нам больш устойліва дадаваць новы функцыянал! <a href="https://it.falanster.by/#doika" target="_blank">Ахвяруйце на развіццё Doika!</a>
                 </p>
               </div>
             </div>
@@ -379,31 +379,31 @@
 
 
 
-      <a class="button donate" href="https://it.falanster.by/#doika" target="_blank">пожертвуй на Doika</a>
+      <a class="button donate" href="https://it.falanster.by/#doika" target="_blank">ахвяруй на Doika</a>
 
 
     <section id="contact-us" class="contact-us">
       <div class="container">
         <div class="row">
           <div class="col-lg-5">
-              <h2 class="contact-us__title">Как с нами связаться?</h2>
+              <h2 class="contact-us__title">Як з намі звязацца?</h2>
 
               <p class="contact-us__text">
-                <span class="contact-us__text_header">Сегодня модуль активно разрабатывается, и мы будем благодарны вашим отзывам на почту:</span>
+                <span class="contact-us__text_header">Сёння модуль актыўна распрацоўваецца і мы будзем удзячны за вашы водгукі на пошту:</span>
                   <a href="mailto:falanster.by@gmail.com">falanster.by@gmail.com </a>
               </p>
               <p class="contact-us__text">
-                <span class="contact-us__text_header">Техподдержку можно получить в нашем</span>
+                <span class="contact-us__text_header">Тэхпадтрымку можна атрымаць у нашым</span>
                   <a href="https://t.me/joinchat/FCPQXhFMFgED8krhwVt5IQ"> Telegram-канале.</a>
               </p>
               <p class="contact-us__text">
-                <span class="contact-us__text_header">Или оставить комментарий к коду на</span>
-                  <a href="https://github.com/diglabby/doika_1.2/issues">Гитхабе.</a>
+                <span class="contact-us__text_header">Або пакінуць каментары да коду на</span>
+                  <a href="https://github.com/diglabby/doika_1.2/issues">Гітхабе.</a>
               </p>
 
               <p class="contact-us__text contact-us__text_breaked">
-                <span class="contact-us__text_header">Найти нас можно в офисе по адресу:</span>
-                г.Минск, ул. З.Бядули, 3, пом. 2Н </br>(Вывеска "Фаланстэр")
+                <span class="contact-us__text_header">Знайсці нас можна  у офісе па адрасу:</span>
+                г.Мінск, вул.З.Бядулі, 3, пам.2Н </br>(Шыльда "Фаланстэр")
               </p>
           </div>
           <div class="col-lg-7">
@@ -421,7 +421,7 @@
        <div class="row">
          <div class="col-lg-12 col-sm-12  text-center">
            <dl class="contacts">
-             <dt class="contacts__title">Связаться с нами:</dt>
+             <dt class="contacts__title">Звязацца з намі:</dt>
               <dd class="contacts__mail">
                 <a href="mailto:falanster.by@gmail.com">falanster.by@gmail.com</a>
               </dd>
