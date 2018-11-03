@@ -58,9 +58,29 @@ a.button {
   a.button:hover {
     background-color: #ffaacc; }
 
-a.donate {
+a.install {
  margin-top: 0px;
 }
+
+a.help {
+ background-color: rgb(148, 200, 64);
+}   @media (max-width: 656px) {
+	a.help-by {
+	  line-height: 29px;
+		}}
+    @media (max-width: 595px) {
+	a.help-ru {
+	  line-height: 29px;
+		}}
+    @media (max-width: 454px) {
+	a.help-en {
+	  line-height: 29px;
+		}}
+
+a.help:hover {
+ background-color: rgb(148, 200, 64, 0.5);
+}
+
 
 .back-top {
   position: fixed;
