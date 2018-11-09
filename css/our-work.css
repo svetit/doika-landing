@@ -49,6 +49,15 @@
     .work-description__title {
       font-size: 1.45rem;} }
 
+.work-description__title a {
+  color: #ff80b2f3;
+}
+
+.work-description__title a:hover {
+  color: #ffaacc;
+}
+
+
 .work-description__list {
   text-align: left;
   color: #ffffff;
