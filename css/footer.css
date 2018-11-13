@@ -34,10 +34,26 @@
     font-size: 1.5rem; }
 
 .copyright {
-  min-height: 100px; }
+  min-height: 25px; }
   @media (min-width: 1024px) {
     .copyright {
-      min-height: 135px; } }
+      min-height: 35px; } }
   .copyright a {
     vertical-align: top;
     padding: 0 5px; }
+
+.thanks {
+  min-height: 135px;
+  color: #fff;  }
+  @media (min-width: 1024px) {
+    .thanks{
+      min-height: 200px;  }  }
+
+.thanks h2{
+  text-shadow: none;  }
+
+.thanks img{
+  max-width: 100px;
+  max-height: 100px;  }
+
+
