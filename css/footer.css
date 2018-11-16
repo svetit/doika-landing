@@ -43,17 +43,21 @@
     padding: 0 5px; }
 
 .thanks {
-  min-height: 135px;
+  min-height: 240px;
   color: #fff;  }
   @media (min-width: 1024px) {
     .thanks{
-      min-height: 200px;  }  }
+      min-height: 290px;  }  }
 
 .thanks h2{
-  text-shadow: none;  }
+  text-shadow: none;
+  margin-bottom: 20px; }
 
 .thanks img{
   max-width: 100px;
   max-height: 100px;  }
 
-
+.thanks p {
+  margin:0 auto;
+  max-width: 420px;
+}
