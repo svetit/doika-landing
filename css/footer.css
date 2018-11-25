@@ -47,7 +47,9 @@
   color: #fff;  }
   @media (min-width: 1024px) {
     .thanks{
-      min-height: 290px;  }  }
+      min-height: 290px;  }
+    .thanks p {
+      line-height: 1.4rem; }}
 
 .thanks h2{
   text-shadow: none;
@@ -59,5 +61,5 @@
 
 .thanks p {
   margin:0 auto;
-  max-width: 420px;
-}
+  max-width: 500px;
+  line-height: 1.8rem;  }
