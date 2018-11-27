@@ -63,3 +63,7 @@
   margin:0 auto;
   max-width: 500px;
   line-height: 1.8rem;  }
+
+.thanks a {
+  text-decoration: none;
+  color: #fff;  }
