@@ -44,3 +44,26 @@
   color: #ff80b2; 
 }
 
+    @media (min-width: 1024px) {
+      .our-work .mission__text_marked {
+        width: 850px; } }
+
+.certification .mission__text_marked {
+  background-color: #fff;
+}
+
+.certification .mission__text_marked .gif-text {
+  font-size: 1.4rem;
+  line-height: 1.9rem;
+  margin-bottom: 15px;
+  color:#333;
+}
+  @media (min-width: 1024px) {
+    .certification .mission__text_marked .gif-text {
+      font-size: 1.55rem;
+      margin-bottom: 20px;
+      color:#333;} }
+
+.certification_break {
+  margin-top: 40px;
+}
