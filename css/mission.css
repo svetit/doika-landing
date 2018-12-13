@@ -22,6 +22,11 @@
   margin-top: 20px;
   text-align: left; }
 
+.mission_big {
+  font-size: 1.3rem;
+  line-height: 2.1rem;
+}
+
 .mission__text_marked {
   padding: 10px 15px;
   text-align: left;
