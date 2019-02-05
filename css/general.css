@@ -76,6 +76,18 @@ a.help {
 	a.help-en {
 	  line-height: 29px;
 		}}
+    @media (max-width: 507px) {
+	a.install-by {
+	  line-height: 29px;
+		}}
+    @media (max-width: 522px) {
+	a.install-ru {
+	  line-height: 29px;
+		}}
+    @media (max-width: 443px) {
+	a.install-en {
+	  line-height: 29px;
+		}}
 
 a.help:hover {
  background-color: rgb(148, 200, 64, 0.5);
