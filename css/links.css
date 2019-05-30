@@ -54,8 +54,7 @@
 .links__image {
   height: auto;
   width: 100%;
-  margin-top: 5px;
-  margin-bottom: 30px;
+  margin-top: 30px;
   background-color: #666666;
   display: flex; }
   .links__image img {
