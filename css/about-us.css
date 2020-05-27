@@ -72,6 +72,11 @@
     height: 100%;
     max-width: 500px; }
 
+  .article__video_block {
+    width: 100%;
+    margin-top: 60px;
+  }
+
 .img-right {
   justify-content: center; }
   @media (min-width: 1024px) {
