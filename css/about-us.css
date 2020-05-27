@@ -67,9 +67,6 @@
     .article__img {
       margin-top: 0;
       justify-content: flex-start; }
-      .article__video {
-        width: 100%;
-        margin-top: 60px; } }
 
   .article__img img {
     width: 95%;
@@ -79,6 +76,10 @@
   .article__video {
     width: 100%;
   }
+  @media (min-width: 1024px) {
+    .article__video {
+      width: 100%;
+      margin-top: 60px; } }
 
 .img-right {
   justify-content: center; }
