@@ -66,11 +66,20 @@
   @media (min-width: 1024px) {
     .article__img {
       margin-top: 0;
-      justify-content: flex-start; } }
+      justify-content: flex-start; }
+
   .article__img img {
     width: 95%;
     height: 100%;
     max-width: 500px; }
+
+  .article__video {
+    width: 100%;
+  }
+  @media (min-width: 1024px) {
+    .article__video {
+      width: 100%;
+      margin-top: 60px; } }
 
 .img-right {
   justify-content: center; }

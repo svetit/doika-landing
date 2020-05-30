@@ -34,35 +34,12 @@
     font-size: 1.5rem; }
 
 .copyright {
-  min-height: 25px; }
+  min-height: 25px;
+  margin-bottom: 80px;}
   @media (min-width: 1024px) {
     .copyright {
-      min-height: 35px; } }
+      min-height: 35px;
+      margin-bottom: 120px;} }
   .copyright a {
     vertical-align: top;
     padding: 0 5px; }
-
-.thanks {
-  min-height: 240px;
-  color: #fff;  }
-  @media (min-width: 1024px) {
-    .thanks{
-      min-height: 290px;  }
-    .thanks p {
-      line-height: 1.4rem; }}
-
-.thanks h2{
-  text-shadow: none;
-  margin-bottom: 20px; }
-
-.thanks img{
-  max-width: 80px;
-  max-height: 80px;  }
-
-.thanks p {
-  margin:0 auto;
-  max-width: 500px;
-  line-height: 1.4rem;  }
-
-.thanks a {
-  color: #fff;  }
